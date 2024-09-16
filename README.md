@@ -18,5 +18,5 @@ You can preview the application on Netlify: [CatPhotoApp Preview](https://your-n
    ```sh
    git clone https://github.com/chol369/CatPhotoApp.git
    
-##Attribution
+## Attribution
 This project is based on the freeCodeCamp Cat Photo App.
